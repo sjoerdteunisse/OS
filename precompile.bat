@@ -1,0 +1,1 @@
+copy /b test.bin test.img
